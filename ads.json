@@ -12,7 +12,7 @@
     "show_after_seconds": 3,
     "auto_close_seconds": 20,
     "start_date": "2026-06-30",
-    "end_date": "2026-12-31",
+    "end_date": "2026-8-30",
     "max_daily_views": 3,
     "interval_hours": 4,
     "show_indicator": false
